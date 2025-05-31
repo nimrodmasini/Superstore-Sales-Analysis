@@ -3,8 +3,8 @@
 
 ## 🧾 Project Overview
 
-**Tool Used**: Microsoft Power BI
-**Dataset**: [Superstore Dataset (Kaggle)](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+- **Tool Used**: Microsoft Power BI
+- **Dataset**: [Superstore Dataset (Kaggle)](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 This dashboard analyzes sales, profit, and order trends for a fictional superstore across different regions, categories, and time periods. The goal is to provide business intelligence to support decision-making.
 

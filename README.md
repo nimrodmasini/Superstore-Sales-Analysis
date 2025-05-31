@@ -1,9 +1,8 @@
-# 📊 Retail Sales Dashboard
+# 📊 Superstore Sales Dashboard
 ![image](https://github.com/user-attachments/assets/0de88410-52c6-4edd-ac76-66759f5efe2c)
 
 ## 🧾 Project Overview
 
-**Title**: Superstore Sales Analysis
 **Tool Used**: Microsoft Power BI
 **Dataset**: [Superstore Dataset (Kaggle)](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
